@@ -1,0 +1,58 @@
+# Misc
+*.html
+*.ipynb_checkpoints*
+*Untitled*
+*.pyc
+*.bin
+*.pkl
+*.vtk.*
+*.7z
+*.json
+*.png
+*.stl
+*.vtu
+*.pptx
+*.docx
+*.doc
+*.npy
+*.csv
+*.dat
+
+*/_archive/*
+
+# Data
+/00-Data
+
+# Output
+*/figures/*
+*/tables/*
+*/output/*
+*/final/*
+*/ascii_export/*
+*/single DH/*.ipynb
+*/single DH/tables/*
+*/single DH/figures/*
+
+# Latex files
+*.acn
+*.acr
+*.alg
+*.aux
+*.bbl
+*.blg
+*.glg
+*.glo
+*.gls
+*.ist
+*.lof
+*.lot
+*.out
+*.toc
+*.pdf
+*.log
+*.synctex.gz
+/91-ReportStandAlone
+!/90-Report/93-Latexfiles/logo.png
+!/91-Memo/93-Latexfiles/logo.png
+
+.gitattributes
